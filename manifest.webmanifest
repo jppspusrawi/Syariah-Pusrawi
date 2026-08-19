@@ -1,0 +1,14 @@
+{
+  "name": "Syariah Pusrawi",
+  "short_name": "Syariah Pusrawi",
+  "description": "Pusat Rujukan Syariah Digital — Unit Syariah, Hospital Pakar Pusrawi Kuala Lumpur",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08281e",
+  "theme_color": "#08281e",
+  "icons": [
+    { "src": "app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
